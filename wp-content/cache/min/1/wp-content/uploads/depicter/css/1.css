@@ -1,0 +1,281 @@
+.depicter-revert.depicter-1 .depicter-layers-wrapper {
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.depicter-revert .depicter-1-element-93 {
+    border-radius: 50%
+}
+
+.depicter-revert .depicter-1-element-21 {
+    filter: brightness(100%) contrast(100%) saturate(100%) blur(0) hue-rotate(0deg);
+    backdrop-filter: blur(0) brightness(100%) opacity(100%);
+    background-color: #AAA
+}
+
+.depicter-revert .depicter-1-element-20 {
+    font-size: 86px;
+    color: #006;
+    font-family: "Poppins";
+    font-weight: 700;
+    line-height: 120%;
+    letter-spacing: -3px;
+    background-color: transparent
+}
+
+.depicter-revert .depicter-1-element-90 {
+    padding: 11px 25px 10px 27px;
+    font-size: 16px;
+    text-align: center;
+    color: #FFF;
+    font-family: "Poppins";
+    font-weight: 700;
+    box-shadow: 6px 6px 25px 0 rgba(0, 0, 0, .35);
+    background-color: #006;
+    border-radius: 30px
+}
+
+.depicter-revert .depicter-1-element-90:not(.depicter-hover-off) {
+    transition: all ease 0.3s
+}
+
+.depicter-revert .depicter-1-element-90:not(.depicter-hover-off):hover {
+    color: #FFF;
+    box-shadow: 10px 10px 50px 0 #FFA500;
+    transform: scale(.95);
+    background-color: #FFA500
+}
+
+.depicter-revert .depicter-1-element-13 {
+    padding: 11px 25px 10px 27px;
+    font-size: 16px;
+    text-align: center;
+    color: #FFF;
+    font-family: "Poppins";
+    font-weight: 700;
+    box-shadow: 6px 6px 25px 0 rgba(0, 0, 0, .35);
+    background-color: #006;
+    border-radius: 30px
+}
+
+.depicter-revert .depicter-1-element-13:not(.depicter-hover-off) {
+    transition: all ease 0.3s
+}
+
+.depicter-revert .depicter-1-element-13:not(.depicter-hover-off):hover {
+    color: #FFF;
+    box-shadow: 10px 10px 50px 0 #FFA500;
+    transform: scale(.95);
+    background-color: #FFA500
+}
+
+.depicter-revert .depicter-1-element-12 {
+    font-size: 17px;
+    color: #000;
+    font-family: "Spectral";
+    font-weight: 300;
+    line-height: 160%;
+    background-color: transparent
+}
+
+.depicter-revert .depicter-1-element-10 {
+    font-size: 86px;
+    color: #202020;
+    font-family: "Poppins";
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: -3px;
+    background-color: transparent
+}
+
+.depicter-revert .depicter-1-element-9 {
+    font-size: 86px;
+    color: #202020;
+    font-family: "Poppins";
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: -3px;
+    background-color: transparent
+}
+
+.depicter-revert .depicter-1-element-8 {
+    font-size: 18px;
+    color: #006;
+    font-family: "Poppins";
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: 5px;
+    background-color: transparent
+}
+
+.depicter-revert .depicter-1-element-7 {
+    background-color: #FAFAFA;
+    border-radius: 30px
+}
+
+.depicter-revert .depicter-1-element-6 {
+    background-color: #DBDBDB;
+    border-radius: 30px
+}
+
+.depicter-revert .depicter-1-element-5 {
+    background-color: #DBDBDB;
+    border-radius: 30px
+}
+
+.depicter-revert .depicter-1-element-4 {
+    background-color: #DBDBDB;
+    border-radius: 30px
+}
+
+.depicter-revert .depicter-1-element-3 {
+    background-color: #DBDBDB;
+    border-radius: 500px
+}
+
+.depicter-revert .depicter-1-section-1 .depicter-section-background {
+    background-color: #FAFAFA
+}
+
+@media screen and (max-width:1024px) {
+    .depicter-revert .depicter-1-element-21 {
+        background-color: #AAA
+    }
+    .depicter-revert .depicter-1-element-20 {
+        font-size: 70px;
+        color: #006;
+        font-family: "Poppins";
+        font-weight: 700;
+        line-height: 120%;
+        letter-spacing: -3px;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-90 {
+        font-size: 16px;
+        text-align: center;
+        color: #FFF;
+        font-family: "Quicksand";
+        font-weight: 700;
+        background-color: #006
+    }
+    .depicter-revert .depicter-1-element-13 {
+        font-size: 16px;
+        text-align: center;
+        color: #FFF;
+        font-family: "Quicksand";
+        font-weight: 700;
+        background-color: #006
+    }
+    .depicter-revert .depicter-1-element-12 {
+        font-size: 18px;
+        color: #000;
+        font-family: "Spectral";
+        font-weight: 300;
+        line-height: 160%;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-10 {
+        font-size: 70px;
+        color: #202020;
+        font-family: "Poppins";
+        font-weight: 500;
+        line-height: 120%;
+        letter-spacing: -3px;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-9 {
+        font-size: 70px;
+        color: #202020;
+        font-family: "Poppins";
+        font-weight: 500;
+        line-height: 120%;
+        letter-spacing: -3px;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-8 {
+        font-size: 10px;
+        color: #006;
+        font-family: "Poppins";
+        font-weight: 500;
+        line-height: 120%;
+        letter-spacing: 5px;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-7 {
+        background-color: #FAFAFA
+    }
+    .depicter-revert .depicter-1-section-1 .depicter-section-background {
+        background-color: #FAFAFA
+    }
+}
+
+@media screen and (max-width:767px) {
+    .depicter-revert .depicter-1-element-21 {
+        filter: none;
+        backdrop-filter: blur(6px) brightness(160%) opacity(100%);
+        background-color: rgba(231, 231, 231, .7)
+    }
+    .depicter-revert .depicter-1-element-20 {
+        font-size: 45px;
+        color: #006;
+        font-family: "Quicksand";
+        font-weight: 400;
+        line-height: 120%;
+        letter-spacing: -1px;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-90 {
+        font-size: 13px;
+        text-align: center;
+        color: #FFF;
+        font-family: "Quicksand";
+        font-weight: 700;
+        background-color: #006
+    }
+    .depicter-revert .depicter-1-element-13 {
+        font-size: 13px;
+        text-align: center;
+        color: #FFF;
+        font-family: "Quicksand";
+        font-weight: 700;
+        background-color: #006
+    }
+    .depicter-revert .depicter-1-element-12 {
+        font-size: 14px;
+        color: #000;
+        font-family: "Spectral";
+        font-weight: 300;
+        line-height: 160%;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-10 {
+        font-size: 45px;
+        color: #202020;
+        font-family: "Poppins";
+        font-weight: 400;
+        line-height: 120%;
+        letter-spacing: -1px;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-9 {
+        font-size: 45px;
+        color: #202020;
+        font-family: "Poppins";
+        font-weight: 400;
+        line-height: 120%;
+        letter-spacing: -1px;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-element-8 {
+        font-size: 10px;
+        color: #006;
+        font-family: "Quicksand";
+        font-weight: 400;
+        line-height: 120%;
+        letter-spacing: 5px;
+        background-color: transparent
+    }
+    .depicter-revert .depicter-1-section-1 .depicter-section-background {
+        background-color: #FAFAFA
+    }
+}

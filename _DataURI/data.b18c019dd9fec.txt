@@ -1,0 +1,1 @@
+chrome-extension://didhgeamncokiaegffipckhhcpnmlcbl/redirectcheck.js

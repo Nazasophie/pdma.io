@@ -1,0 +1,1 @@
+chrome-extension://cipccbpjpemcnijhjcdjmkjhmhniiick/asset-manifest.json
